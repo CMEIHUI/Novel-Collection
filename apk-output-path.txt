@@ -1,0 +1,2 @@
+PATH1=c:\Flutter SDK\flutter_application_assignment\android\app\build\outputs\flutter-apk\app-release.apk
+PATH2=c:\Flutter SDK\flutter_application_assignment\android\app\build\outputs\apk\release\app-release.apk
